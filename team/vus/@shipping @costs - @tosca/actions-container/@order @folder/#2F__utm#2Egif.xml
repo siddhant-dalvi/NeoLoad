@@ -1,0 +1,100 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/__utm.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@shipping @costs - @tosca/%resources%/recorded-artifacts/1b91cc2c-ac71-48a0-945f-19f45ef07afb.zip"
+    slaProfileEnabled="false" thinkTime="951"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1b91cc2c-ac71-48a0-945f-19f45ef07afb">
+    <embedded-action>01dad683-7670-474e-b70d-ff2b2bcdd442</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/__utm.gif" path="/__utm.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/@shipping @costs - @tosca/%resources%/recorded-artifacts/1b91cc2c-ac71-48a0-945f-19f45ef07afb.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.google-analytics.com" slaProfileEnabled="false"
+    uid="01dad683-7670-474e-b70d-ff2b2bcdd442" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_01dad683-7670-474e-b70d-ff2b2bcdd442.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_01dad683-7670-474e-b70d-ff2b2bcdd442.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="utmwv"
+        recordRawValue="5.7.2" separator="=" value="5.7.2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utms"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmn"
+        recordRawValue="1842148055" separator="=" value="1842148055" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmhn"
+        recordRawValue="demowebshop.tricentis.com" separator="="
+        value="demowebshop.tricentis.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmcs"
+        recordRawValue="UTF-8" separator="=" value="UTF-8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmsr"
+        recordRawValue="1920x1080" separator="=" value="1920x1080" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmvp"
+        recordRawValue="1905x859" separator="=" value="1905x859" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmsc"
+        recordRawValue="24-bit" separator="=" value="24-bit" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmul"
+        recordRawValue="en-us" separator="=" value="en-us" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmje"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmfl"
+        recordRawValue="-" separator="=" value="-" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmdt"
+        recordRawValue="Demo%20Web%20Shop" separator="="
+        value="Demo Web Shop" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmhid"
+        recordRawValue="1750683860" separator="=" value="1750683860" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmr"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmp"
+        recordRawValue="%2F" separator="=" value="/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmht"
+        recordRawValue="1741605403899" separator="="
+        value="1741605403899" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmac"
+        recordRawValue="UA-6574346-11" separator="="
+        value="UA-6574346-11" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="utmcc"
+        recordRawValue="__utma%3D78382081.1766308048.1722833430.1741586618.1741605345.22%3B%2B__utmz%3D78382081.1726641671.2.2.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3D(not%2520provided)%3B"
+        separator="="
+        value="__utma%3D78382081.1766308048.1722833430.1741586618.1741605345.22%3B%2B__utmz%3D78382081.1726641671.2.2.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3D(not%2520provided)%3B" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="utmjid"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="utmu"
+        recordRawValue="qAAAAAAAAAAAAAAAAAAAAAAE~" separator="="
+        value="qAAAAAAAAAAAAAAAAAAAAAAE~" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://demowebshop.tricentis.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-ch-ua" value="&quot;Not(A:Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;133&quot;, &quot;Chromium&quot;;v=&quot;133&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+pragma: no-cache&#xd;
+x-content-type-options: nosniff&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:163:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=ascnsrsgac:163:0&#xd;
+report-to: {"group":"ascnsrsgac:163:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:163:0"}],}&#xd;
+server: Golfe2&#xd;
+content-length: 35&#xd;
+date: Mon, 10 Mar 2025 01:30:31 GMT&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+age: 35173&#xd;
+last-modified: Sun, 17 May 1998 03:00:00 GMT&#xd;
+content-type: image/gif&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

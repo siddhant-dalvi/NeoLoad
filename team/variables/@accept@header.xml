@@ -1,0 +1,1 @@
+<variable-constant constantValue="application/json" name="AcceptHeader" order="1" policy="1" range="2" uid="eaa62091-9566-4ad3-91d8-07c51d867832" whenOutOfValues="CYCLE_VALUES"/>

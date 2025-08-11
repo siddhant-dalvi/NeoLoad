@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Order Folder" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="09770c66-9893-4872-9955-220a76112826" weightsEnabled="false">
+    <weighted-embedded-action uid="eb748886-60ef-421e-b36b-f3c6ab13a539"/>
+    <weighted-embedded-action uid="1b91cc2c-ac71-48a0-945f-19f45ef07afb"/>
+    <weighted-embedded-action uid="34ce17a7-87ae-41b0-aa23-0e4f3e0d4c3b"/>
+</basic-logical-action-container>

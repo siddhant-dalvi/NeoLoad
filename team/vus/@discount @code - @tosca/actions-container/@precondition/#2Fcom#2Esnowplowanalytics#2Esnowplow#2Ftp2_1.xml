@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/com.snowplowanalytics.snowplow/tp2_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca/%resources%/recorded-artifacts/d5eea698-06e7-4e97-ad90-c11b61f09d8f.zip"
+    slaProfileEnabled="false" thinkTime="2120"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d5eea698-06e7-4e97-ad90-c11b61f09d8f">
+    <embedded-action>2d13bda3-7eab-47b2-b087-588627223ba3</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/com.snowplowanalytics.snowplow/tp2"
+    path="/com.snowplowanalytics.snowplow/tp2" postType="4"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca/%resources%/recorded-artifacts/d5eea698-06e7-4e97-ad90-c11b61f09d8f.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="us.telemetry.zoom.us" slaProfileEnabled="false"
+    uid="2d13bda3-7eab-47b2-b087-588627223ba3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aa8297c7-abe1-44f4-a934-92e6b83cbc7f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aa8297c7-abe1-44f4-a934-92e6b83cbc7f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Host" value="us.telemetry.zoom.us"/>
+    <header name="User-Agent" value="Mozilla/5.0 (ZOOM.Win 10.0 x64)"/>
+    <header name="ZM-CAP" value="8300567970761955255,6445493618999263204,7795585261064146175,7998097959182395391,5764464026413956093,1331501597251678"/>
+    <header name="ZM-LOCALE" value="Def"/>
+    <header name="ZM-PROP" value="Win.Zoom"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 10 Mar 2025 11:15:52 GMT&#xd;
+Content-Type: text/plain; charset=UTF-8&#xd;
+Content-Length: 2&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: sp=b566264c-625d-40a9-a909-4255d5b9c466; Expires=Tue, 10 Mar 2026 11:15:52 GMT; Domain=; Path=/; Secure; SameSite=None&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSA OUR IND COM NAV STA"&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+cf-cache-status: DYNAMIC&#xd;
+Set-Cookie: __cf_bm=KNoml1vETYg4_4uwE.Ye7CulqCAQQgFoz8QW_WIcqJY-1741605352-1.0.1.1-ntoHHcU9nklD3UcphO86w3JHnu9TGKITwizP6FpeP1FMzFr.du8sKQTMRTKniUtKflTEwwunayfp.iOkc0DF9W.dDokvlt9g9iS7LdHDmks; path=/; expires=Mon, 10-Mar-25 11:45:52 GMT; domain=.us.telemetry.zoom.us; HttpOnly; Secure; SameSite=None&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 91e2658a3dd36ee8-BOM&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"data":[{"co":"{\"data\":[{\"data\":{\"account_id\":\"tj2epoccS9-zf66Y9PhCHw\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"user_id\":\"dfnRJSEFTOW7rycSlnpttw\",\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/User/jsonschema/5-0-0\"},{\"data\":{\"app_version\":\"6.2.3.47507\",\"cpu_type\":\"GenuineIntel\",\"data_collection_flag\":1,\"device_country\":\"US\",\"device_id\":\"wEqcNsYrlBoO3wLYr3n1oV0SzZ1h+EF0g9QMMv9J23g=\",\"device_manufacturer\":\"HP\",\"device_model\":\"HP EliteBook 840 G7 Notebook PC\",\"gpu_model\":\"Intel(R) UHD Graphics;Microsoft Basic Render Driver\",\"is_required_event\":false,\"language_setting\":\"en-US\",\"network_type\":\"\",\"os_name\":\"windows\",\"os_version\":\"10.0\",\"resolution\":\"1920x1080\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"total_ram_gb\":16,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Device/jsonschema/3-1-0\"},{\"data\":{\"client_type\":\"client\",\"client_version\":\"6.2.3.47507\",\"cluster_db_name\":\"aw1\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Product/jsonschema/1-0-0\"},{\"data\":{\"current_host_user_id\":\"QzxjZ-xdTUeXshSy2bWiXw\",\"data_collection_flag\":1,\"has_other_share_source\":false,\"is_required_event\":false,\"meeting_id\":\"czF0vjrKRKm3H3jl7rz2kA==\",\"meeting_number\":99285098356,\"meeting_type\":\"normal\",\"num_attendees\":2,\"original_host_user_id\":\"QzxjZ-xdTUeXshSy2bWiXw\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"schedule_type\":\"schedule\",\"supports_jbh\":true,\"supports_translation\":false,\"supports_wait_room\":false,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Meeting/jsonschema/5-3-1\"},{\"data\":{\"data_collection_flag\":1,\"is_required_event\":false,\"meeting_join_session_id\":\"E70D4A7A-96A4-460A-B39E-7E1C2CC67009\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Session/jsonschema/1-0-0\"}],\"schema\":\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-1\"}\n","dtm":"1741605349054","e":"ue","eid":"39A992AA-5C9E-46DC-B1D0-057F3499464F","p":"app","tv":"cpp-0.2.0","ue_pr":"{\"data\":{\"data\":{\"data_collection_flag\":1,\"error_reason\":\"\",\"event_location\":\"annotate_bar\",\"event_name\":\"mouse\",\"event_source\":\"annotate_pencil\",\"event_type\":\"clicked\",\"feature_name\":\"annotate\",\"is_classic_whiteboard_initiator\":false,\"is_required_event\":false,\"product_type\":\"meeting\",\"sampling_config_version\":\"1.1\",\"sampling_rate\":1.0,\"schedule_time\":null,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings/MeetingInteractV2/jsonschema/1-3-4\"},\"schema\":\"iglu:com.snowplowanalytics.snowplow/unstruct_event/jsonschema/1-0-0\"}\n"},{"co":"{\"data\":[{\"data\":{\"account_id\":\"tj2epoccS9-zf66Y9PhCHw\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"user_id\":\"dfnRJSEFTOW7rycSlnpttw\",\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/User/jsonschema/5-0-0\"},{\"data\":{\"app_version\":\"6.2.3.47507\",\"cpu_type\":\"GenuineIntel\",\"data_collection_flag\":1,\"device_country\":\"US\",\"device_id\":\"wEqcNsYrlBoO3wLYr3n1oV0SzZ1h+EF0g9QMMv9J23g=\",\"device_manufacturer\":\"HP\",\"device_model\":\"HP EliteBook 840 G7 Notebook PC\",\"gpu_model\":\"Intel(R) UHD Graphics;Microsoft Basic Render Driver\",\"is_required_event\":false,\"language_setting\":\"en-US\",\"network_type\":\"\",\"os_name\":\"windows\",\"os_version\":\"10.0\",\"resolution\":\"1920x1080\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"total_ram_gb\":16,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Device/jsonschema/3-1-0\"},{\"data\":{\"client_type\":\"client\",\"client_version\":\"6.2.3.47507\",\"cluster_db_name\":\"aw1\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Product/jsonschema/1-0-0\"},{\"data\":{\"current_host_user_id\":\"QzxjZ-xdTUeXshSy2bWiXw\",\"data_collection_flag\":1,\"has_other_share_source\":false,\"is_required_event\":false,\"meeting_id\":\"czF0vjrKRKm3H3jl7rz2kA==\",\"meeting_number\":99285098356,\"meeting_type\":\"normal\",\"num_attendees\":2,\"original_host_user_id\":\"QzxjZ-xdTUeXshSy2bWiXw\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"schedule_type\":\"schedule\",\"supports_jbh\":true,\"supports_translation\":false,\"supports_wait_room\":false,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Meeting/jsonschema/5-3-1\"},{\"data\":{\"data_collection_flag\":1,\"is_required_event\":false,\"meeting_join_session_id\":\"E70D4A7A-96A4-460A-B39E-7E1C2CC67009\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings.entities/Session/jsonschema/1-0-0\"}],\"schema\":\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-1\"}\n","dtm":"1741605349084","e":"ue","eid":"D1290510-9B52-46AD-AA5B-92B4440B0570","p":"app","tv":"cpp-0.2.0","ue_pr":"{\"data\":{\"data\":{\"data_collection_flag\":1,\"error_reason\":\"\",\"event_location\":\"annotate_bar\",\"event_name\":\"mouse\",\"event_source\":\"annotate_pencil\",\"event_type\":\"clicked\",\"feature_name\":\"annotate\",\"is_classic_whiteboard_initiator\":false,\"is_required_event\":false,\"product_type\":\"meeting\",\"sampling_config_version\":\"1.1\",\"sampling_rate\":1.0,\"schedule_time\":null,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.meetings/MeetingInteractV2/jsonschema/1-3-4\"},\"schema\":\"iglu:com.snowplowanalytics.snowplow/unstruct_event/jsonschema/1-0-0\"}\n"}],"schema":"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4"}]]></textPostContent>
+</http-action>

@@ -1,0 +1,90 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@shipping @costs - @tosca/%resources%/recorded-artifacts/3dc360a3-7922-49cd-8910-e5dd9ea40c0b.zip"
+    slaProfileEnabled="false" thinkTime="6927"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3dc360a3-7922-49cd-8910-e5dd9ea40c0b">
+    <embedded-action>0c1c104f-9629-4685-96c5-cde52f38272c</embedded-action>
+    <embedded-action>5a63ea1c-452a-4e2e-a2e4-3fd2d490f5c1</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/vnd.ms-cab-compressed"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab"
+    path="/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@shipping @costs - @tosca/%resources%/recorded-artifacts/3dc360a3-7922-49cd-8910-e5dd9ea40c0b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ctldl.windowsupdate.com" slaProfileEnabled="false"
+    uid="0c1c104f-9629-4685-96c5-cde52f38272c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0c1c104f-9629-4685-96c5-cde52f38272c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0c1c104f-9629-4685-96c5-cde52f38272c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="97456f039bb1bb2b" recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Host" value="ctldl.windowsupdate.com"/>
+    <header name="If-Modified-Since" value="Thu, 05 Dec 2024 19:42:09 GMT"/>
+    <header name="If-None-Match" value="&quot;06cfcc54d47db1:0&quot;"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Connection: keep-alive&#xd;
+Content-Length: 4761&#xd;
+Cache-Control: public,max-age=900&#xd;
+Content-Type: application/vnd.ms-cab-compressed&#xd;
+Last-Modified: Thu, 05 Dec 2024 19:42:09 GMT&#xd;
+ETag: "06cfcc54d47db1:0"&#xd;
+Accept-Ranges: bytes&#xd;
+Date: Mon, 10 Mar 2025 11:16:34 GMT&#xd;
+Via: 1.1 varnish&#xd;
+Age: 352&#xd;
+X-Served-By: cache-fra-etou8220122-FRA&#xd;
+X-Cache: HIT&#xd;
+X-Cache-Hits: 11685&#xd;
+X-Timer: S1741605394.241916,VS0,VE0&#xd;
+X-CID: 3&#xd;
+X-CCC: DE</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/r/r1.crl" path="/r/r1.crl" postType="6"
+    recordedArtifactZipFileName="team/vus/@shipping @costs - @tosca/%resources%/recorded-artifacts/3dc360a3-7922-49cd-8910-e5dd9ea40c0b.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="c.pki.goog"
+    slaProfileEnabled="false" uid="5a63ea1c-452a-4e2e-a2e4-3fd2d490f5c1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5a63ea1c-452a-4e2e-a2e4-3fd2d490f5c1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5a63ea1c-452a-4e2e-a2e4-3fd2d490f5c1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3000"/>
+    <header name="Host" value="c.pki.goog"/>
+    <header name="If-Modified-Since" value="Thu, 25 Jul 2024 14:48:00 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cacerts&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="cacerts"&#xd;
+Report-To: {"group":"cacerts","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cacerts"}]}&#xd;
+Content-Length: 854&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Mon, 10 Mar 2025 10:36:53 GMT&#xd;
+Expires: Mon, 10 Mar 2025 11:26:53 GMT&#xd;
+Cache-Control: public, max-age=3000&#xd;
+Age: 2381&#xd;
+Last-Modified: Thu, 25 Jul 2024 14:48:00 GMT&#xd;
+Content-Type: application/pkix-crl&#xd;
+Vary: Accept-Encoding</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

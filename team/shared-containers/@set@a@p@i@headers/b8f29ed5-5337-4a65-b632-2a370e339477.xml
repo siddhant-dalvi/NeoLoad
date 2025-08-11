@@ -1,0 +1,16 @@
+<http-action actionType="1"
+    eTag="W/&quot;6b80-Ybsq/K6GwwqrYkAsFxqDXGC7DoM&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/posts" path="/posts" postType="1"
+    serverUid="jsonplaceholder.typicode.com" slaProfileEnabled="false"
+    uid="b8f29ed5-5337-4a65-b632-2a370e339477" useKeepAlive="true">
+    <responsePageFileDescription>team/shared-containers/@set@a@p@i@headers/%resources%/recorded-responses/res_b8f29ed5-5337-4a65-b632-2a370e339477</responsePageFileDescription>
+    <requestContentFileDescription>team/shared-containers/@set@a@p@i@headers/%resources%/recorded-requests/req_c0c86510-ecf8-471d-9cde-12b79ead06f0.txt</requestContentFileDescription>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
