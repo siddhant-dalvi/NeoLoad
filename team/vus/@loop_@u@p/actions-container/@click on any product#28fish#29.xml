@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click on any product(fish)" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="6b2089a4-7f00-4762-8d96-b07ce5943128" weightsEnabled="false">
+    <weighted-embedded-action uid="19e6a1dd-c4ea-414b-a7e1-d0855bf676f9"/>
+</basic-logical-action-container>

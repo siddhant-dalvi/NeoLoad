@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Precondition" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="7519514c-8f12-400c-923f-d669d98e5461" weightsEnabled="false">
+    <weighted-embedded-action uid="5ecb2558-595e-4591-a3e0-3569912e90c2"/>
+    <weighted-embedded-action uid="0a3f5f62-ce8e-4a7e-af0c-24f1b687f96a"/>
+    <weighted-embedded-action uid="43749d6f-a987-42a4-b9e6-4a4690fb2b27"/>
+</basic-logical-action-container>

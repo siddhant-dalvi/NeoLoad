@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Enter" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c8f771ad-a175-465e-b33c-70a639dd27f7" weightsEnabled="false">
+    <weighted-embedded-action uid="48b656a8-0790-4c48-84f0-531da7f8dec2"/>
+</basic-logical-action-container>

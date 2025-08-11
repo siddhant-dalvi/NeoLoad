@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/com.snowplowanalytics.snowplow/tp2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca/%resources%/recorded-artifacts/673ecfed-8598-4a33-9230-b0d9ca352b92.zip"
+    slaProfileEnabled="false" thinkTime="4048"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="673ecfed-8598-4a33-9230-b0d9ca352b92">
+    <embedded-action>9779227a-68e7-438b-87e7-3f9b6820618d</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/com.snowplowanalytics.snowplow/tp2"
+    path="/com.snowplowanalytics.snowplow/tp2" postType="4"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca/%resources%/recorded-artifacts/673ecfed-8598-4a33-9230-b0d9ca352b92.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="us.telemetry.zoom.us" slaProfileEnabled="false"
+    uid="9779227a-68e7-438b-87e7-3f9b6820618d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b9bd5fa2-e0dc-4fc2-b786-c65621ed583f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b9bd5fa2-e0dc-4fc2-b786-c65621ed583f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Host" value="us.telemetry.zoom.us"/>
+    <header name="User-Agent" value="Mozilla/5.0 (ZOOM.Win 10.0 x64)"/>
+    <header name="ZM-CAP" value="8300567970761955255,6445493618999263204,7795585261064146175,7998097959182395391,5764464026413956093,1331501597251678"/>
+    <header name="ZM-LOCALE" value="Def"/>
+    <header name="ZM-PROP" value="Win.Zoom"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 10 Mar 2025 11:15:49 GMT&#xd;
+Content-Type: text/plain; charset=UTF-8&#xd;
+Content-Length: 2&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: sp=99ce1959-301b-4667-a5e1-e3863431fe98; Expires=Tue, 10 Mar 2026 11:15:49 GMT; Domain=; Path=/; Secure; SameSite=None&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSA OUR IND COM NAV STA"&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+cf-cache-status: DYNAMIC&#xd;
+Set-Cookie: __cf_bm=4lAuy3xIEo06IEaBRKhY6PALgE.Mv.yVDED1Tc.DyM4-1741605349-1.0.1.1-Hu.ZoA6Zz4gZp5SXNLlixAfAyFJgfxongGkhIuWRKcactN9qL1ThiGv2RLb.PUWVe.zyY6oYqJzhLpHUfN6oJ7OnMyNP9JkngDJUa1LsMVU; path=/; expires=Mon, 10-Mar-25 11:45:49 GMT; domain=.us.telemetry.zoom.us; HttpOnly; Secure; SameSite=None&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 91e2657b5a108ef4-BOM&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"data":[{"co":"{\"data\":[{\"data\":{\"data_collection_flag\":1,\"device_model\":\"HP EliteBook 840 G7 Notebook PC\",\"is_required_event\":false,\"os_name\":\"windows\",\"os_version\":\"10.0\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/Device/jsonschema/1-0-1\"},{\"data\":{\"client_type\":\"client\",\"client_version\":\"6.2.3.47507\",\"cluster_db_name\":\"aw1\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/Product/jsonschema/1-0-0\"},{\"data\":{\"async_read_failure_iocount\":null,\"async_read_success_iocount\":2,\"async_total_latency\":null,\"async_write_failure_iocount\":null,\"async_write_success_iocount\":28,\"connection_name\":\"unknown\",\"data_collection_flag\":1,\"db_file_size\":null,\"error_code\":null,\"is_required_event\":false,\"latency\":null,\"pii_log\":null,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"sql_op_type\":\"null_type\",\"sync_read_failure_iocount\":null,\"sync_read_success_iocount\":79,\"sync_unknown_failure_iocount\":null,\"sync_write_failure_iocount\":null,\"sync_write_success_iocount\":28,\"table_name\":null,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/ChatDb/jsonschema/1-0-0\"}],\"schema\":\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-1\"}\n","dtm":"1741605347971","e":"ue","eid":"CD26C65B-2AC3-4916-BC1B-D356CC747ECA","p":"app","tv":"cpp-0.2.0","ue_pr":"{\"data\":{\"data\":{\"data_collection_flag\":1,\"event_name\":\"iocount_database\",\"is_required_event\":false,\"sampling_config_version\":\"1.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat/ChatDboperation/jsonschema/1-0-1\"},\"schema\":\"iglu:com.snowplowanalytics.snowplow/unstruct_event/jsonschema/1-0-0\"}\n"},{"co":"{\"data\":[{\"data\":{\"data_collection_flag\":1,\"device_model\":\"HP EliteBook 840 G7 Notebook PC\",\"is_required_event\":false,\"os_name\":\"windows\",\"os_version\":\"10.0\",\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/Device/jsonschema/1-0-1\"},{\"data\":{\"client_type\":\"client\",\"client_version\":\"6.2.3.47507\",\"cluster_db_name\":\"aw1\",\"data_collection_flag\":1,\"is_required_event\":false,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/Product/jsonschema/1-0-0\"},{\"data\":{\"async_read_failure_iocount\":null,\"async_read_success_iocount\":null,\"async_total_latency\":18480,\"async_write_failure_iocount\":null,\"async_write_success_iocount\":null,\"connection_name\":\"enc_asyn_msg_db\",\"data_collection_flag\":1,\"db_file_size\":null,\"error_code\":null,\"is_required_event\":false,\"latency\":1,\"pii_log\":null,\"sampling_config_version\":\"0.1\",\"sampling_rate\":1.0,\"sql_op_type\":\"null_type\",\"sync_read_failure_iocount\":null,\"sync_read_success_iocount\":null,\"sync_unknown_failure_iocount\":null,\"sync_write_failure_iocount\":null,\"sync_write_success_iocount\":null,\"table_name\":null,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat.entities/ChatDb/jsonschema/1-0-0\"}],\"schema\":\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-1\"}\n","dtm":"1741605347972","e":"ue","eid":"904C9383-1EAF-4C50-A83F-F326C86F9E41","p":"app","tv":"cpp-0.2.0","ue_pr":"{\"data\":{\"data\":{\"data_collection_flag\":1,\"event_name\":\"async_database\",\"is_required_event\":false,\"sampling_config_version\":\"1.1\",\"sampling_rate\":1.0,\"when_collection_toggle_off_action\":\"unmasked\"},\"schema\":\"iglu:us.zoom.chat/ChatDboperation/jsonschema/1-0-1\"},\"schema\":\"iglu:com.snowplowanalytics.snowplow/unstruct_event/jsonschema/1-0-0\"}\n"}],"schema":"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4"}]]></textPostContent>
+</http-action>

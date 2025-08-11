@@ -1,0 +1,9 @@
+<connection-datadog
+    app-key="rSYlI9s6Lak7BJMPkovWH+J2+d+QFSl+k/HJ14rc1JspMXKZuHjyltE4/m9ucjiwl4TFFBWMIVVzqJwXhd9TviIXfsNcmWsw3FUN7cqBl1Q=$3"
+    interval="10000" name="Datadog"
+    push-monitors="USER_LOAD,DOWNLOADED_BYTES,REQUESTS_PER_SECOND,ERRORS,TRANSACTIONS_PER_SECOND"
+    send-events="true" server-address="https://us5.datadoghq.com/"
+    server-port="0"
+    token="WLA2CDmoa6c8chGC0GNYFPSu1za2FHZ5iej8/tslW4m8mL+hrGBmMk9N1g4RKvA9ITKaz1rRyWrUjZf7VF7g5vwJ0AAwLndeVgRhPLnyM/U=$3" uid="531a4f86-dfee-4f5a-aa57-65f70e693c0c">
+    <monitor-category name="Queries" short-display-name="Queries"/>
+</connection-datadog>

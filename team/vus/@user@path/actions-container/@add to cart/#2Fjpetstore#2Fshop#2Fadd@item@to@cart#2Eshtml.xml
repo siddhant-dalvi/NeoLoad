@@ -1,0 +1,44 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/addItemToCart.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/1d7f1c2c-ba33-4bc4-afff-c401bdd6889c.zip"
+    slaProfileEnabled="false" thinkTime="6864"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1d7f1c2c-ba33-4bc4-afff-c401bdd6889c">
+    <embedded-action>1d10cc9a-a6c0-41b7-bb7d-af1d29037727</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6bde8e93-4b44-46b4-b847-5f5de74fbab5.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/addItemToCart.shtml"
+    path="/jpetstore/shop/addItemToCart.shtml" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/1d7f1c2c-ba33-4bc4-afff-c401bdd6889c.zip"
+    recordedResponseCode="200"
+    refererUid="5f763686-c933-4424-96c9-6b69cc59a2a3"
+    responseSize="6069" serverUid="tri-5cg10762mp"
+    slaProfileEnabled="false" uid="1d10cc9a-a6c0-41b7-bb7d-af1d29037727" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2f3c958a-6bd1-478f-bcfb-29c499d02cb0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2f3c958a-6bd1-478f-bcfb-29c499d02cb0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="workingItemId"
+        recordRawValue="EST-20" separator="=" value="EST-20" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=5AE81A486B195C782F15839445AC5027"/>
+    <header name="Host" value="tri-5cg10762mp:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://tri-5cg10762mp:8080/jpetstore/shop/viewProduct.shtml?productId=FI-FW-02"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+Content-Type: text/html;charset=ISO-8859-1&#xd;
+Content-Length: 6069&#xd;
+Date: Thu, 07 Aug 2025 10:34:33 GMT</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="13"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

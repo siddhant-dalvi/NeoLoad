@@ -1,0 +1,5 @@
+<globalAssertionSettings applyGlobalAssertionsOnCA="false">
+    <contentType value="text/html"/>
+    <contentType value="text/xhtml"/>
+    <contentType value="application/json"/>
+</globalAssertionSettings>

@@ -1,0 +1,150 @@
+<lg-host browserBasedSupport="true" citrixSupport="false"
+    hostname="localhost:7100" loadWeight="1" sapSupport="true"
+    standalone="false" supportWANEmulation="false"
+    uid="4cee8e07-1a7e-4430-9649-59d553cc334d" version="2025.1.1;build=20250417-35">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)"
+        enabled="false" isLoopBack="false" name="ethernet_32774">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Hyper-V Virtual Ethernet Adapter"
+        enabled="false" isLoopBack="false" name="ethernet_32773">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="tri-5cg10762mp">
+            <ip value="172.17.80.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:6fa9:828c:771d:ce76%ethernet_32773">
+            <ip value="fe80:0:0:0:6fa9:828c:771d:ce76%ethernet_32773"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_10">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter"
+        enabled="false" isLoopBack="false" name="wireless_32769">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:5eca:d4e6:6281:3792%wireless_32769">
+            <ip value="fe80:0:0:0:5eca:d4e6:6281:3792%wireless_32769"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Intel(R) Wi-Fi 6 AX201 160MHz"
+        enabled="false" isLoopBack="false" name="wireless_32768">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="192.168.1.9">
+            <ip value="192.168.1.9"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2401:4900:881c:510:7151:60d0:9b17:6436">
+            <ip value="2401:4900:881c:510:7151:60d0:9b17:6436"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2401:4900:881c:510:c2d4:fead:999d:3566">
+            <ip value="2401:4900:881c:510:c2d4:fead:999d:3566"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:7c14:605f:6dc3:7c34%wireless_32768">
+            <ip value="fe80:0:0:0:7c14:605f:6dc3:7c34%wireless_32768"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Hyper-V Virtual Ethernet Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_13">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_0">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-Native WiFi Filter Driver-0000"
+        enabled="false" isLoopBack="false" name="wireless_2">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-Virtual WiFi Filter Driver-0000"
+        enabled="false" isLoopBack="false" name="wireless_1">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-QoS Packet Scheduler-0000"
+        enabled="false" isLoopBack="false" name="wireless_4">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-Zscaler LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_3">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_6">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Intel(R) Wi-Fi 6 AX201 160MHz-WFP 802.3 MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_5">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter-Zscaler LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="wireless_8">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000"
+        enabled="false" isLoopBack="false" name="wireless_7">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="loopback_0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="kubernetes.docker.internal">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Hyper-V Virtual Ethernet Adapter-WFP Native MAC Layer LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_1">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000"
+        enabled="false" isLoopBack="false" name="wireless_9">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Hyper-V Virtual Ethernet Adapter-QoS Packet Scheduler-0000"
+        enabled="false" isLoopBack="false" name="ethernet_3">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Hyper-V Virtual Ethernet Adapter-Zscaler LightWeight Filter-0000"
+        enabled="false" isLoopBack="false" name="ethernet_2">
+        <!--****** LG ADDRESSES ******-->
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

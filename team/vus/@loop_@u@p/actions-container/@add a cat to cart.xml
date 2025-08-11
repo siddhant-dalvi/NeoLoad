@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Add a cat to cart" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="51b92341-f340-4969-990c-4b21af551a7d" weightsEnabled="false">
+    <weighted-embedded-action uid="68a24337-2208-41bf-8bf0-b807e9a72b5d"/>
+</basic-logical-action-container>

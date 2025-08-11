@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Precondition" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c4655179-64d0-4bbd-9588-07c100136ec9" weightsEnabled="false">
+    <weighted-embedded-action uid="e38c55bf-68c1-417e-8bb6-7b6a4170b7a7"/>
+    <weighted-embedded-action uid="d9a0ac36-84ee-40b2-9db6-1f60a9c81c01"/>
+    <weighted-embedded-action uid="3dc360a3-7922-49cd-8910-e5dd9ea40c0b"/>
+    <weighted-embedded-action uid="9c6a4323-6bdc-44be-96eb-e6707eed8c12"/>
+    <weighted-embedded-action uid="6ac0c2a9-0f71-4ffb-9d15-7aaa0e2c9549"/>
+    <weighted-embedded-action uid="770c90b3-8ccb-4d52-802a-9178f594dced"/>
+</basic-logical-action-container>

@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/service/msn/livetile/singletile"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca_old/%resources%/recorded-artifacts/4e20f6d7-6b06-4158-a2d5-f906077f665b.zip"
+    slaProfileEnabled="false" thinkTime="16742"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4e20f6d7-6b06-4158-a2d5-f906077f665b">
+    <embedded-action>4cfd86ca-7551-4ef5-a952-75fecb681605</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/service/msn/livetile/singletile"
+    path="/service/msn/livetile/singletile" postType="6"
+    recordedArtifactZipFileName="team/vus/@discount @code - @tosca_old/%resources%/recorded-artifacts/4e20f6d7-6b06-4158-a2d5-f906077f665b.zip"
+    recordedResponseCode="200" responseSize="1252"
+    serverUid="assets.msn.com" slaProfileEnabled="false"
+    uid="4cfd86ca-7551-4ef5-a952-75fecb681605" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_024f47e2-0be0-4ccd-a101-008aa97c3e60.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_024f47e2-0be0-4ccd-a101-008aa97c3e60.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="market"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="appxmanifest" separator="=" value="appxmanifest" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tenant"
+        recordRawValue="amp" separator="=" value="amp" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="vertical"
+        recordRawValue="news" separator="=" value="news" valueMode="USE_VALUE"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Host" value="assets.msn.com"/>
+    <header name="User-Agent" value="Microsoft-WNS/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+DDD-AuthenticatedWithJwtFlow: False&#xd;
+DDD-UserType: AnonymousMuid&#xd;
+DDD-StrategyExecutionLatency: 00:00:00.2729572&#xd;
+DDD-ActivityId: f34350eb-f0c3-4e58-a362-446fb100464d&#xd;
+DDD-TMPL-Removed: False&#xd;
+DDD-DebugId: f34350eb-f0c3-4e58-a362-446fb100464d|2025-03-10T06:00:51.8846632Z|fabric_msn|KOC-A|News_1591&#xd;
+DDD-Auth-Features: AT:NA;DID:m-24DA4651613B6FC1227053FA60BC6E9B;IT:Unknown;MuidStateOrigin:MuidFromClientIDHeader&#xd;
+OneWebServiceLatency: 274&#xd;
+X-MSEdge-ResponseInfo: 274&#xd;
+X-Ceto-ref: 67ce80139e394de3b5e857d548224014|AFD:67ce80139e394de3b5e857d548224014|2025-03-10T06:00:51.602Z&#xd;
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version&#xd;
+X-MSEdge-Ref: Ref A: 128AB149ED6A4E53B47C5460FD2A5E94 Ref B: BOM02EDGE0419 Ref C: 2025-03-10T06:00:51Z&#xd;
+Date: Mon, 10 Mar 2025 06:04:09 GMT&#xd;
+Content-Length: 1252&#xd;
+Connection: keep-alive&#xd;
+Alt-Svc: h3=":443"; ma=86400&#xd;
+Akamai-Request-BC: [a=23.193.165.76,b=2144434399,c=g,n=IN_MH_MUMBAI,o=9498]&#xd;
+Server-Timing: clientrtt; dur=4, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0&#xd;
+Akamai-Cache-Status: Hit from child&#xd;
+Akamai-Server-IP: 23.193.165.76&#xd;
+Akamai-Request-ID: 7fd178df&#xd;
+X-AS-SuppressSetCookie: 1&#xd;
+Cache-Control: public, max-age=300&#xd;
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}&#xd;
+Timing-Allow-Origin: *&#xd;
+Akamai-GRN: 0.4ca5c117.1741586649.7fd178df&#xd;
+Vary: Origin</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
