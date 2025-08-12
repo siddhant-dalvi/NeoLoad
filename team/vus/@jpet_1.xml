@@ -24,6 +24,7 @@
         <weighted-embedded-action uid="a0841554-e0ac-4d61-89d9-8ef401d2fa33"/>
         <weighted-embedded-action uid="6d7489b7-f621-4131-8f79-ec37f0689e41"/>
     </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="0"
         thinktimeRangeValue="0" thinktimeValue="5000"/>
