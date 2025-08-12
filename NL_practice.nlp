@@ -14,3 +14,6 @@ project.config.path=config.zip
 project.config.storage=ZIP
 team.server.enabled=true
 team.server.project=siddhant-dalvi/NeoLoad
+project.workspace=681c3b05c237715a1e6e72db
+project.test-settings=ac89d5fc-8683-47a6-85ac-df7a7e86946a
+project.test-settings-name=WebShop

@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/favicon.ico"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/103dc256-e50d-44fd-85a7-8cc075f10569.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="103dc256-e50d-44fd-85a7-8cc075f10569">
+    <embedded-action>cf96b719-4ca9-4129-9a97-ffdc455e6db3</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_103dc256-e50d-44fd-85a7-8cc075f10569.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    eTag="W/&quot;c26-18e4b16cb19&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/103dc256-e50d-44fd-85a7-8cc075f10569.zip"
+    recordedResponseCode="200" responseSize="3110"
+    serverUid="demoqa.com" slaProfileEnabled="false"
+    uid="cf96b719-4ca9-4129-9a97-ffdc455e6db3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cf96b719-4ca9-4129-9a97-ffdc455e6db3.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cf96b719-4ca9-4129-9a97-ffdc455e6db3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="_ga=GA1.2.2066418301.1754979043; _gid=GA1.2.2001882036.1754979043; __gads=ID=2ed8fd574225ad4d:T=1754979042:RT=1754979042:S=ALNI_MYxDVOQFZB6YT2dkyZy5oTCO8_dTQ; __gpi=UID=0000117ece0f24bf:T=1754979042:RT=1754979042:S=ALNI_MZ00rnFKCwCotNlqID5-gMsH6HLwQ; __eoi=ID=821399997210bb0e:T=1754979042:RT=1754979042:S=AA-AfjaJVzm3QDp2Y-MyUj9w5QUP; cto_bundle=XK5XC191b0tNOG16aW9Va0Q0Y0JldkFGTTYwQk5DdWJGUGdJNU14c3JJQXlSWTVDdkx1Szg2eldLeEQ3eEFZRXJoZGV1UEhYcU11eG1kaG40Z0wyckE3JTJGaDRlRmQ5ZkloeFF6OWVuZ3pjMzdWeWxiaWZ0T2MyZXdkSWpOQ21SSnhJY1NJd1BHTXFQZVhCMzN3clRBNXNQNGtyQSUzRCUzRA; _cc_id=9978c7ac5981be12f7479edb3c7587d0; panoramaId_expiry=1755065446524; panoramaId=80da428753198aecedf08332c143a9fb927a9f5d63fea1b04963625de545f7c8; panoramaIdType=panoDevice"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/login"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:11:48 GMT&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"c26-18e4b16cb19"&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
