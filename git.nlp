@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=git
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2025.1.2
+project.is-open-test-settings-after-upload=false
+project.id=b643ba28-ba64-4944-9de2-b5e365ad7189
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/siddhant-dalvi/NeoLoad/
