@@ -1,0 +1,256 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/register"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    slaProfileEnabled="false" thinkTime="2058"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2894990c-0b6f-4728-8cb8-cb3ecc601068">
+    <embedded-action>a0175af9-3bf8-4cd8-ac19-1bc013ede7c1</embedded-action>
+    <embedded-action>2df3a15a-7475-4e1c-9d14-d7da283241d9</embedded-action>
+    <embedded-action>b507f7e6-7c8d-4b75-b910-6012cc5839e8</embedded-action>
+    <embedded-action>580431ae-c505-4dae-8037-6e63efc85dcb</embedded-action>
+    <embedded-action>8ca6e983-b51f-458a-adbd-ed8e0785da88</embedded-action>
+    <embedded-action>e102ce96-390e-41da-bd08-a8cd2263254a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2894990c-0b6f-4728-8cb8-cb3ecc601068.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    eTag="W/&quot;c26-18e4b16cb19&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/register" path="/register" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200" responseSize="3110"
+    serverUid="demoqa.com" slaProfileEnabled="false"
+    uid="a0175af9-3bf8-4cd8-ac19-1bc013ede7c1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a0175af9-3bf8-4cd8-ac19-1bc013ede7c1.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a0175af9-3bf8-4cd8-ac19-1bc013ede7c1.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:35 GMT&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"c26-18e4b16cb19"&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    eTag="W/&quot;d53b-18e4b16cb19&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/main.css" path="/main.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200" responseSize="54587"
+    serverUid="demoqa.com" slaProfileEnabled="false"
+    uid="2df3a15a-7475-4e1c-9d14-d7da283241d9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2df3a15a-7475-4e1c-9d14-d7da283241d9.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2df3a15a-7475-4e1c-9d14-d7da283241d9.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/register"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:36 GMT&#xd;
+Content-Type: text/css; charset=UTF-8&#xd;
+Content-Length: 54587&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Accept-Ranges: bytes&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"d53b-18e4b16cb19"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=UTF-8"
+    eTag="W/&quot;c9985-18e4b16cb19&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bundle.js" path="/bundle.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200"
+    refererUid="a0175af9-3bf8-4cd8-ac19-1bc013ede7c1"
+    responseSize="825733" serverUid="demoqa.com"
+    slaProfileEnabled="false" uid="b507f7e6-7c8d-4b75-b910-6012cc5839e8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b507f7e6-7c8d-4b75-b910-6012cc5839e8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b507f7e6-7c8d-4b75-b910-6012cc5839e8.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/register"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:36 GMT&#xd;
+Content-Type: application/javascript; charset=UTF-8&#xd;
+Content-Length: 825733&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Accept-Ranges: bytes&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"c9985-18e4b16cb19"</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="11"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="W/&quot;1c40-18e4b16cb25&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/Toolsqa.jpg" path="/images/Toolsqa.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="demoqa.com"
+    slaProfileEnabled="false" uid="580431ae-c505-4dae-8037-6e63efc85dcb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_580431ae-c505-4dae-8037-6e63efc85dcb.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/register"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:39 GMT&#xd;
+Content-Type: image/jpeg&#xd;
+Content-Length: 7232&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Accept-Ranges: bytes&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"1c40-18e4b16cb25"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="W/&quot;2c43-18e4b16cb21&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/zero-step.jpeg"
+    path="/images/zero-step.jpeg" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="demoqa.com"
+    slaProfileEnabled="false" uid="8ca6e983-b51f-458a-adbd-ed8e0785da88" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_8ca6e983-b51f-458a-adbd-ed8e0785da88.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/register"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:39 GMT&#xd;
+Content-Type: image/jpeg&#xd;
+Content-Length: 11331&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Accept-Ranges: bytes&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"2c43-18e4b16cb21"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="W/&quot;1086-18e4b16cb2d&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 17 Mar 2024 06:26:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/gplaypattern.jpg"
+    path="/images/gplaypattern.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/2894990c-0b6f-4728-8cb8-cb3ecc601068.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="demoqa.com"
+    slaProfileEnabled="false" uid="e102ce96-390e-41da-bd08-a8cd2263254a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e102ce96-390e-41da-bd08-a8cd2263254a.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/main.css"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:10:39 GMT&#xd;
+Content-Type: image/jpeg&#xd;
+Content-Length: 4230&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+Accept-Ranges: bytes&#xd;
+Cache-Control: public, max-age=0&#xd;
+Last-Modified: Sun, 17 Mar 2024 06:26:08 GMT&#xd;
+ETag: W/"1086-18e4b16cb2d"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

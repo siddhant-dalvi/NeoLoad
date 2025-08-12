@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/api/v2/logs_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/482f0a53-5ad0-4a0e-8e6a-74df5c4205be.zip"
+    slaProfileEnabled="false" thinkTime="108"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="482f0a53-5ad0-4a0e-8e6a-74df5c4205be">
+    <embedded-action>b7a77087-ae55-49e7-8413-89a87e3a0461</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    eTag="W/&quot;28-Ol+1T9TtJMfkxjesktiJwJPAuBU&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Account/v1/User" path="/Account/v1/User"
+    postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/@demo@q@a/%resources%/recorded-artifacts/482f0a53-5ad0-4a0e-8e6a-74df5c4205be.zip"
+    recordedResponseCode="201" responseSize="85" serverUid="demoqa.com"
+    slaProfileEnabled="false" uid="b7a77087-ae55-49e7-8413-89a87e3a0461" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b7a77087-ae55-49e7-8413-89a87e3a0461</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b7a77087-ae55-49e7-8413-89a87e3a0461.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="_ga=GA1.2.2066418301.1754979043; _gid=GA1.2.2001882036.1754979043; _gat_UA-109033876-1=1; __gads=ID=2ed8fd574225ad4d:T=1754979042:RT=1754979042:S=ALNI_MYxDVOQFZB6YT2dkyZy5oTCO8_dTQ; __gpi=UID=0000117ece0f24bf:T=1754979042:RT=1754979042:S=ALNI_MZ00rnFKCwCotNlqID5-gMsH6HLwQ; __eoi=ID=821399997210bb0e:T=1754979042:RT=1754979042:S=AA-AfjaJVzm3QDp2Y-MyUj9w5QUP; cto_bundle=XK5XC191b0tNOG16aW9Va0Q0Y0JldkFGTTYwQk5DdWJGUGdJNU14c3JJQXlSWTVDdkx1Szg2eldLeEQ3eEFZRXJoZGV1UEhYcU11eG1kaG40Z0wyckE3JTJGaDRlRmQ5ZkloeFF6OWVuZ3pjMzdWeWxiaWZ0T2MyZXdkSWpOQ21SSnhJY1NJd1BHTXFQZVhCMzN3clRBNXNQNGtyQSUzRCUzRA; _cc_id=9978c7ac5981be12f7479edb3c7587d0; panoramaId_expiry=1755065446524; panoramaId=80da428753198aecedf08332c143a9fb927a9f5d63fea1b04963625de545f7c8; panoramaIdType=panoDevice"/>
+    <header name="Host" value="demoqa.com"/>
+    <header name="Origin" value="https://demoqa.com"/>
+    <header name="Referer" value="https://demoqa.com/register"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;139&quot;, &quot;Chromium&quot;;v=&quot;139&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 201 Created&#xd;
+Server: nginx/1.17.10 (Ubuntu)&#xd;
+Date: Tue, 12 Aug 2025 06:11:37 GMT&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Length: 85&#xd;
+Connection: keep-alive&#xd;
+X-Powered-By: Express&#xd;
+ETag: W/"55-ohZ6okhReTnN5Lq3PpuKDO541EM"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userName":"demouser125","password":"Demo@123"}]]></textPostContent>
+</http-action>
