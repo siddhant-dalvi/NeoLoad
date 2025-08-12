@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="ShippingMethod continue" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="2f44ddba-b595-4aa8-b104-244f5a76d042" weightsEnabled="false">
+    <weighted-embedded-action uid="c321534e-5cef-4129-ba06-ce0cc64cc78b"/>
+</basic-logical-action-container>
